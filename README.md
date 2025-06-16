@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohamed-arham
+
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning about atificial intelligence 
 - 💞️ I’m looking to collaborate on JARVIS
